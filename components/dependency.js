@@ -196,11 +196,11 @@ const headerlinks = [
     },
     {
         id: 6,
-        name: "team",
+        name: "flowchart",
     },
     {
         id: 7,
-        name: "flowchart",
+        name: "team",
     },
 
 ]
